@@ -16,6 +16,7 @@ public class Ejemplo02 {
         
         pais = "Ecuador";
         char letra = pais.charAt(0);
+        // Para seleccionar un caracter en la posicion que le indico 
         System.out.printf("%s\n", letra);
         
     }

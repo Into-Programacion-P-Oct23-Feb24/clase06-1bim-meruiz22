@@ -17,6 +17,7 @@ public class EjemploCadenas {
         System.out.printf("%s\n", ciudad.toUpperCase());
         System.out.printf("%s\n", ciudad);
         
-        
+        //toLowerCase es un metodo para pasar una cadena en minusculas 
+        //toUpperCase es un metodo para pasar una cadena en mayusculas 
     }
 }
